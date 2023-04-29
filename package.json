@@ -4,6 +4,7 @@
 	"description": "Foo description. Bars!",
 	"keywords": ["foo", "freecodecamp", "bar"],
 	"license": "GPT-4",
+	"version": "1.2.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
